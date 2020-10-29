@@ -10,5 +10,5 @@ Flood Kahoot Games with Auto Answer...
  3. Lastly Run the command -> node flooder.js
  4. Server will start in localhost:3000
  5. Type localhost:3000 in your webrowser and Enjoy flooding Games
-
-![image](https://github.com/Vexed-Nz/Kahoot-Flooder/blob/main/Imageweb.png | width=100)
+ 
+<img src="https://github.com/Vexed-Nz/Kahoot-Flooder/blob/main/Imageweb.png" width="500">
