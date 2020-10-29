@@ -1,0 +1,20 @@
+{
+  "name": "kahootbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node flooder.js",
+    "dev": "nodemon flooder.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "kahoot.js-updated": "^1.2.14",
+    "nodemon": "^2.0.6",
+    "random-name": "^0.1.2"
+  }
+}
