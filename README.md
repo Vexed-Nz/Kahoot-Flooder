@@ -14,6 +14,5 @@ Flood Kahoot Games with Auto Answer...
 Tutorial Video Here:<br>
 ->> <a href="https://www.youtube.com/watch?v=WoH5CAc7tV8" target="_blank">Youtube tutorial video</a>
 
-->> <a href="https://mysterious-gorge-02408.herokuapp.com/index.html" target="_blank">Example Site</a> ("Note: This is just an example Doesn't actually have a Server Backend")
 <br><br>
 <img src="https://github.com/Vexed-Nz/Kahoot-Flooder/blob/main/Imageweb.png" width="500">
